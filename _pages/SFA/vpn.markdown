@@ -1,6 +1,6 @@
 ---
 title:  "VPN 연결 방법"
-permalink: /SFA/vpn
+permalink: /SFA/vpn/
 ---
 
 

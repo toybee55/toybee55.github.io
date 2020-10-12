@@ -1,6 +1,6 @@
 ---
 title:  "메일 발송시 첨부파일 용량 부족"
-permalink: /HIWORKS/mail
+permalink: /HIWORKS/mail/
 ---
 
 
