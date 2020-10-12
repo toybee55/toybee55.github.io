@@ -1,52 +1,23 @@
 # main links
 main:
-  - title: "kd"
-    url: /about
+  - title: "KD"
+    url: /KD/
   - title: "하이웍스"
-    url: /404
+    url: /HIWORKS/
+  - title: "SFA"
+    url: /SFA/
 
 docs:
-  - title: Getting Started
+  - title: KD
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-
-  - title: Customization
+      - title: "KD 업데이트 방법"
+        url: /KD/kdupdate/
+  - title: 하이웍스
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-
-  - title: Content
+      - title: "메일 발송시 첨부파일 용량 부족"
+        url: /HIWORKS/mail
+  - title: SFA
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "VPN 연결 방법"
+        url: /SFA/vpn
  
