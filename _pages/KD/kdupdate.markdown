@@ -1,11 +1,7 @@
 ---
 title:  "KD 업데이트 방법"
 permalink: /KD/kdupdate
-
 ---
-
-
-
 
 #### 1. 바탕화면의 KD 아이콘을 더블클릭합니다.
 
